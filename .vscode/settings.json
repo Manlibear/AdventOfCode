@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintArgs": [
+        "--init-hook",
+        "import sys; sys.path.append('C:\\Users\\Will Prosser\\Documents\\Projects\\AdventOfCode')"
+    ],
+    "blueprint.templatesPath": [
+        "./.blueprint-templates",
+    ]
+}
